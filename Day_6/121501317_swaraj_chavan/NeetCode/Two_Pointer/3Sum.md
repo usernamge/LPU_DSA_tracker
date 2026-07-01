@@ -1,4 +1,5 @@
-# 3Sum
+# 3Sum 
+- https://leetcode.com/problems/3sum/description/
 ``` python 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
